@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+create a file in src with firebase settings
+`settings.json`
+`{ "dburl": "", "key": "" }`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
