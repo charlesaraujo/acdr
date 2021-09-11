@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-teste commit
 create a file in src with firebase settings
 `settings.json`
 `{ "dburl": "", "key": "" }`
